@@ -4420,7 +4420,7 @@
     (pin "56" (uuid ffe23cd5-42d2-4119-bf6c-f9f9315a06a6))
   )
 
-  (symbol (lib_id "Switch:SW_Push") (at 181.61 91.44 90) (unit 1)
+  (symbol (lib_id "Switch:SW_Push") (at 181.61 91.44 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 33d75140-7899-4a21-a65a-fb5477205af8)
     (property "Reference" "SW1" (id 0) (at 182.88 90.1699 90)
@@ -5363,7 +5363,7 @@
     (pin "2" (uuid 32fc2e70-c6a7-4998-abc1-d2afefc86e8b))
   )
 
-  (symbol (lib_id "Switch:SW_Push") (at 191.77 91.44 270) (unit 1)
+  (symbol (lib_id "Switch:SW_Push") (at 191.77 91.44 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 8686831e-ba40-4fc7-96de-2f19f723a3dd)
     (property "Reference" "SW2" (id 0) (at 195.58 90.1699 90)
